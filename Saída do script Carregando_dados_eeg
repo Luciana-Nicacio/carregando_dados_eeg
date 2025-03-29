@@ -1,0 +1,11 @@
+Itens do banco de dados: ['estimulo', 'ID32', 'ID33', 'ID34', 'ID35', 'ID36', 'ID37', 'ID38', 'ID39', 'ID40', 'ID41', 'ID42', 'ID43', 'ID44', 'ID45', 'ID46', 'ID47', 'ID48', 'ID49', 'ID50', 'ID51', 'ID52', 'ID53']
+
+Tipo de estímulo utilizado no experimento: estimulo1 = Estimulação senoidal
+
+Para cada voluntário, existem os seguintes dados: ['EEG', 'Perguntas', 'Respostas', 'Delays']
+
+Para o voluntário ID32, por exemplo, foram realizadas as seguintes perguntas do questionário:  [2, 13, 3, 7, 6, 4, 23, 26, 15, 22]
+
+As respostas do ID32 para as perguntas foram:  {'calibracao': '?', 'p2': 'N', 'p13': 'N', 'p3': 'N', 'p7': 'N', 'p6': 'S', 'p4': 'S', 'p23': 'S', 'p26': 'S', 'p15': 'S', 'p22': 'N'}
+
+Delay é o intervalo de tempo entre o início da coleta dos sinais de EEG e o início da estimulação. O delay de cada ensaio, em segundos, para ID32 é:  {'calibracao': 2.0541, 'p2': 1.2456, 'p13': 1.2412, 'p3': 1.2453, 'p7': 1.2387, 'p6': 1.2916, 'p4': 1.232, 'p23': 1.2091, 'p26': 1.1683, 'p15': 1.2055, 'p22': 1.1611}
